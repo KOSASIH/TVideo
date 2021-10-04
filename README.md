@@ -1,2 +1,2 @@
 # TVideo
-Video channel
+Streaming Video channel
